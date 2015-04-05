@@ -1,41 +1,20 @@
-Template
-========
+Tango Pedagogy
+==============
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+This is work in progress documentation to accompany the
+Tango Teacher's Program in 2015/2016.
 
-Look how easy it is to use:
 
-    import project
-    # Get your stuff done
-    project.do_stuff()
+Collaborators
+-------------
+Abrazos Club (Kace Ong)
 
-Features
---------
+Maestros:
+Carlos Rivarola
+Gladys Fernandez
 
-- Be awesome
-- Make things faster
 
-Installation
-------------
-
-Install $project by running:
-
-    install project
-
-Contribute
-----------
-
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
-
-Support
+Contact
 -------
+Kaceong@gmail.com
 
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
-
-License
--------
-
-The project is licensed under the BSD license.
