@@ -19,10 +19,15 @@ music -
 
 * punteo - markers - accompany the music
 
-* knee inside cavity, 3 position for foot (clock position) tap #6, #8,  
-
+* right knee inside cavity, 3 position for right foot (clock position) tap #6, #8,  
+  * lightness of foot rebounce
+  
 * boleo backwards
-
+* molinete 
+   * fine points of backward step
+   * molinete one round, 2 ochos, molinete opposite sides continue
+   * looking down no no
+   
  
 
 Part 2.
