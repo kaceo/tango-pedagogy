@@ -1,9 +1,20 @@
 ============
-Technique
+Technique 
 ============
+- What is technique?
+- walking
+- pivoting
+- twisting (spiral)
+- torque
+- acceleration
 
 
----------------
+
+Men's Technique
+--------------
+
+
+
 Ladies Technique (for practica)
 --------------
 Conducted by Gladys
