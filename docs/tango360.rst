@@ -6,19 +6,19 @@ General Theory Tango
 Core Elements
 -----------
 * Stand
-** Embrace
-** 
+ ** Embrace
+ ** 
 
 * Walk
-** Parallel
-** Cross
+ ** Parallel
+ ** Cross
 
 
 -----------
 Classic Elements
 -----------
 * Salida Basico
-** Salida Contra
+ ** Salida Contra
 
 
 
