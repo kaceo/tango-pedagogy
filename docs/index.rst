@@ -12,8 +12,8 @@ Contents:
    :maxdepth: 2
 
    technique
-   practica
    tango360
+   practica
    onteaching
    onperforming
    onmundial
