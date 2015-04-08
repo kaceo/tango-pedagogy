@@ -9,13 +9,21 @@ Ladies Technique (for practica)
 Conducted by Gladys
 
 Part 1.
+music - poema canaro
 
 * warm up exercises
 
 * pivot + ochos exercises
 
-* 
+music - 
 
+* punteo - markers - accompany the music
+
+* knee inside cavity, 3 position for foot (clock position) tap #6, #8,  
+
+* boleo backwards
+
+ 
 
 Part 2.
 
