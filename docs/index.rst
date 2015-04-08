@@ -12,7 +12,13 @@ Contents:
    :maxdepth: 2
    :glob:
 
-   *
+   technique
+   practica
+   tango360
+   onteaching
+   onperforming
+   onmundial
+   
 
 
 
