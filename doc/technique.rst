@@ -10,6 +10,13 @@ Conducted by Gladys
 
 Part 1.
 
+* warm up exercises
+
+* pivot + ochos exercises
+
+* 
+
+
 Part 2.
 
 --------------
