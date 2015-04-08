@@ -1,6 +1,6 @@
-==========
+==========================
 Practica (Deliverables #C)
-===========
+==========================
 
 Ideas for practicas + solo exercises
 
@@ -8,13 +8,18 @@ Ideas for practicas + solo exercises
 Conducted by Carlos, Gladys
 
 
-for Men
+-for Men
 
-for Couples
+-for Couples
 
 
 Part 1.
+------
+-  ideas
+
+
 
 Part 2.
-
+------
+- ideas
 
