@@ -20,7 +20,7 @@ Activities
 - demonstrate knowledge of common tango Lexicons
 - focus on growing tango participations
 - able to choreograph simple routine
-
+- able to DJ simple 
 
 Questions
 ---------
