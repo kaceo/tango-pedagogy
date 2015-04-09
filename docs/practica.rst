@@ -23,8 +23,11 @@ Part 1 (last 20min)
 - salida focus on the process of step, tracing the standing foot, sensuality
 - singing with the foot, lapiz,
 - put that caricia into walk, (call taxi), 
-- the big toe is the pointer to paint
+- the big toe is the pointer to paint, the extensor muscle in the thigh
 - quick dyanamics require good balancing
 - flexion in the foot to allow flex movement
 - back replacement steps (balancing)
+- caricia musically
+- keep the head and shoulder still (use energy from below waist)
+
 - 
