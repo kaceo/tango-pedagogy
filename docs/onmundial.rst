@@ -1,7 +1,7 @@
 ============
 Competing, Judging (Deliverables F)
 ============
-Participants:
+Participants
 - People interested in tango de pista division of Mundial
 - People who wants to dance exhibition salon tango
 
