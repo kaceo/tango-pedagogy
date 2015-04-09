@@ -1,6 +1,11 @@
 ============
 Competing, Judging (Deliverables F)
 ============
+Objective
+---------
+Provide participants a hands-on opportunity to dance tango de pista
+in front of judge and get good feedback about how to do better.
+
 Participants
 -----------
 - People interested in tango de pista division of Mundial
