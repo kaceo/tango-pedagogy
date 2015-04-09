@@ -4,8 +4,9 @@ Teaching Tango (Deliverables E)
 
 Objective
 ---------
-Tango is difficult to master but with good system of instruction,
-it can be made easier to start learning.
+A preliminary look at the Teacher's training accreditation proposal,
+what a prospective participant may want to know.  You will prepare
+for the next 12 months.
 
 Participants
 ------------
@@ -15,9 +16,10 @@ Participants
 
 Activities
 ---------
-- Do a series of elements both Lead and Follow
-- Oral explanation for common tango Lexicons
-- Case study of growing tango participations
+- both Lead and Follow skills
+- demonstrate knowledge of common tango Lexicons
+- focus on growing tango participations
+- able to choreograph simple routine
 
 
 Questions
@@ -40,3 +42,7 @@ Questions
 - Knowledge of world of tango festivals events and Mundials
 - Teaching tools? resources?
 - UNESCO what it means for world
+
+
+
+
