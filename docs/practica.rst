@@ -8,18 +8,12 @@ Ideas for practicas + solo exercises
 Conducted by Carlos, Gladys
 
 
--for Men
-
--for Couples
-
-
-Part 1.
-------
--  ideas
+- combo - open, backcross in place, left foot adorno, 
 
 
 
-Part 2.
-------
-- ideas
-
+- ISSUE reduce dependence on partner of gender/skill /height in practica
+- ISSUE Isolate each exercise on one muscle / technique
+- ISSUE make the activity based on drills (process) not outcome (input)
+- ISSUE unequal attention to the group 
+ 
