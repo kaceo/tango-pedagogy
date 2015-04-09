@@ -17,6 +17,8 @@ of tango in 10 years.  It has a separate mission document.
 
 .. include::  content.rst
 
+** The project is restricted to team members for now **
+
 
 
 
