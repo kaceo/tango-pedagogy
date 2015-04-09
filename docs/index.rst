@@ -17,7 +17,7 @@ of tango in 10 years.  It has a separate mission document.
 
 .. include::  content.rst
 
-.. include::   authors.rst
+
 
 
 
