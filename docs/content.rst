@@ -2,10 +2,10 @@
 .. toctree::
    :maxdepth: 2
 
-   technique
+   onteaching
    tango360
    practica
-   onteaching
+   technique
    onperforming
    onmundial
    
