@@ -16,4 +16,15 @@ Conducted by Carlos, Gladys
 - ISSUE Isolate each exercise on one muscle / technique
 - ISSUE make the activity based on drills (process) not partnering (input)
 - ISSUE unequal attention to the group 
- 
+
+
+Part 1 (last 20min)
+
+- salida focus on the process of step, tracing the standing foot, sensuality
+- singing with the foot, lapiz,
+- put that caricia into walk, (call taxi), 
+- the big toe is the pointer to paint
+- quick dyanamics require good balancing
+- flexion in the foot to allow flex movement
+- back replacement steps (balancing)
+- 
