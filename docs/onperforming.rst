@@ -14,10 +14,9 @@ Participants
 
 Activities
 ---------
-- The big "wow"
+- Ideas for the big "wow"
 - Approaching into abrazos
-- Tango solo
-- Tango for 3 
+- Tango solo, for 3, unusual combination
 
 Questions
 ---------
@@ -29,3 +28,4 @@ Questions
 - Differences of show tango steps with social steps
 - Differences of show tango adornos with social adornos
 - how to put up a show?
+- training method for fitness
