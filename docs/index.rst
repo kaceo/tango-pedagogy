@@ -1,27 +1,25 @@
-.. Read the Docs Template documentation master file, created by
+.. tango-pedagogy master file, created by
    sphinx-quickstart on Tue Aug 26 14:19:49 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+   You can adapt this file completely to
+   
 
 Transcript of Carlos / Gladys Project 2015
 ==========================================
 
-Contents:
+This document is the raw notes/transcript of the 5-day event.
 
-.. toctree::
-   :maxdepth: 2
+**This is not the output, it is the input.** After editorial and
+extra work on illustrations, videos and webpage development,
+it will become an online MOOC course under the Tangueros foundation.
 
-   technique
-   tango360
-   practica
-   onteaching
-   onperforming
-   onmundial
-   
+The objective of the foundation is to achieve one million new followers
+of tango in 10 years.  It has a separate mission document.
+
+.. include:: contents.rst
 
 Project Participants
 --------------------
-   authors
+.. include::   authors.rst
 
 
 
