@@ -16,5 +16,5 @@ Additional Notes
 .. toctree::
    :maxdepth: 2
 
-   authors
+   author
    acknowledgement
