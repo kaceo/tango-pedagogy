@@ -1,20 +1,28 @@
 ================
 General Theory Tango
 ================
-
+Pre Core
 -----------
+- Abrazo
+- Walk (Accompaniment)
+- Compas
+- (value) kindness
+- (value) give pleasure
+- (value) respect  in dress appropriate
+
 Core Elements
 -----------
-* Stand
- ** Embrace
- ** 
+- Technique of Basic Walking
+- interpret the music, not just follow the beat 
+- Box walk with push up energy / wide side / flexible sliding embrace
+- back step shorter to ground faster
+- feel your body when you walk
+- use the music to express something, discover the music, the pause is expression
+- listen to music frequently to hear the deeper structure
+- 
 
-* Walk
- ** Parallel
- ** Cross
 
 
------------
 Classic Elements
 -----------
 * Salida Basico
@@ -22,7 +30,6 @@ Classic Elements
 
 
 
-----------
 Stylistic Element
 ----------
 * Milonguero vs Villa Urquiza vs Open Embrace
@@ -30,7 +37,6 @@ Stylistic Element
 * Accent vs Off Accent
 
 
-----------
 Breaking the Rules
 ----------
 
