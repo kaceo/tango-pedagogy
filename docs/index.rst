@@ -15,7 +15,7 @@ it will become an online MOOC course under the Tangueros foundation.
 The objective of the foundation is to achieve one million new followers
 of tango in 10 years.  It has a separate mission document.
 
-.. include:: contents.rst
+.. include::  content.rst
 
 Project Participants
 --------------------
