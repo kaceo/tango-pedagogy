@@ -14,6 +14,6 @@ Conducted by Carlos, Gladys
 
 - ISSUE reduce dependence on partner of gender/skill /height in practica
 - ISSUE Isolate each exercise on one muscle / technique
-- ISSUE make the activity based on drills (process) not outcome (input)
+- ISSUE make the activity based on drills (process) not partnering (input)
 - ISSUE unequal attention to the group 
  
