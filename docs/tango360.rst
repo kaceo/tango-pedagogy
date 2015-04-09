@@ -1,16 +1,16 @@
 ================
 General Theory Tango
-================
+================ 
 Pre Core
 -----------
 - Abrazo
 - Walk (Accompaniment)
 - Compas
 - (value) kindness
-- (value) give pleasure
+- (value) give pleasure, enjoy
 - (value) respect  in dress appropriate
 
-Core Elements
+Core Elements (26pax - 6 asst)
 -----------
 - Technique of Basic Walking
 - interpret the music, not just follow the beat 
@@ -19,6 +19,8 @@ Core Elements
 - feel your body when you walk
 - use the music to express something, discover the music, the pause is expression
 - listen to music frequently to hear the deeper structure
+- combination- open, change weight, (1 2) open, direction shift to left, (1 2 3) parallel walk ( 1 2)
+- history lesson - how people learn tango in old days
 - 
 
 
