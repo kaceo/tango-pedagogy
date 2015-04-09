@@ -1,7 +1,0 @@
-Authors
--------
-
-* Kace Ong
-
-
-
